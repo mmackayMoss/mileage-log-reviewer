@@ -1,1 +1,19 @@
 streamlit
+networkx
+
+# Environment variables
+python-dotenv
+
+# Langchain
+langchain
+langchain-openai
+langchain_core
+langchain_community
+
+# Document loaders
+pypdf
+unstructured
+openpyxl
+
+# HTML parsing
+beautifulsoup4
